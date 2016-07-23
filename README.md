@@ -1,2 +1,3 @@
-# binwalk_cythonized_entropy
-Proposed modification to Binwalk's entropy calculation function
+# Cythonized Entropy Function for Binwalk
+
+This repo contains a notebook that demonstrates the 6x performance improvement gained from Cythonizing the Shannon entropy function in [Binwalk](https://github.com/devttys0/binwalk). 
